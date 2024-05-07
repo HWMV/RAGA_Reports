@@ -8,6 +8,7 @@
 # 1. INSIGHT
 
 """
+
  성능에 대한 검증은 확실치 않음. Title과 Description 부분 중 하나라도 None 값이면 에러 발생 (예외 처리가 안되어 있음)
  추가 개발로 거래 실행 & 시장 데이터 분석 & 성능 및 백테스팅 & 실시간 모니터링과 조정 등 실제 디테일 기능은 구현되어 있지 않음
 
@@ -19,5 +20,6 @@
 
 <img align="left" src="./img/camel_role_insight00.png">
 
+---
 
 # 3. Result
