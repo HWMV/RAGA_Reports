@@ -56,8 +56,7 @@
 
 ## 1) LangChain으로 구현한 스크립트(Line 185)와 오픈 소스가 같은 결과를 출력함을 확인
 ## 2) Langflow로 Process를 UI로 구현할 수 있어서 아이디어 테스트에 용이 하다고 생각
-## 3) LangChain을 Component 들을 활용핳면 쉽게 Agent System을 구현 가능하다고 판단
-## 4) Agent, Tool, Chain, Domain 개념 명확하게 이해해야 다양하게 적용할 수 있음
-## 5) 
+## 3) LangChain을 Component 들을 활용하면 쉽게 Agent System을 구현 가능하다고 판단
+## 4) Agent, Tool, Chain, Domain 개념 명확하게 이해해야 다양하게 적용할 수 있음 
 
 ---
