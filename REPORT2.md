@@ -15,7 +15,10 @@
 ## * Chain
     1) Function Call 을 하기 위한 Sequence 구축
     2) 모듈 간의 입출력을 연결하는 파이프라인
-    3) Component 와 LLM 을 활용하여 응답을 얻는 효율적인 Chain을 구축하도록 설계
+    
+## * Tool
+    1) Agent 가 활용할 도구를 정의하여 추론(reasoning)을 수행할 때 활용
+    (e.g. SERP API : Web Search, Calculator : 수식 계산 등) 
 
 
 ## * LangChain
