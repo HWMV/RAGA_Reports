@@ -49,6 +49,7 @@
 
 <img align="center" src="./img/2.component.png">
 <img align="center" src="./img/2.UI.png">
+<img align="center" src="./img/2.logrecord.png">
 
 ---
 
@@ -58,5 +59,7 @@
 ## 2) Langflow로 Process를 UI로 구현할 수 있어서 아이디어 테스트에 용이 하다고 생각
 ## 3) LangChain을 Component 들을 활용하면 쉽게 Agent System을 구현 가능하다고 판단
 ## 4) Agent, Tool, Chain, Domain 개념 명확하게 이해해야 다양하게 적용할 수 있음 
+## 5) Langflow로 Local model Test도 가능. 단, Tool, Prompt 등 여러 구성을 맞춰야 함
+## (Llama3 (70B) > GPT 3.5 (135B) Reference로 확인. 모든 벤치마크에서 우수함)
 
 ---
