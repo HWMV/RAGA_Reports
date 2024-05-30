@@ -7,7 +7,7 @@
 # Scenario Team
 
 ## *1. Base Flow (Langflow)
-    <img align="center" src="./img/3/base_flow.png">
+<img align="center" src="./img/3/base_flow.png">
     
 ## *2. 안 건
     1) 데이터 확보 : 다양한 포맷의 데이터 확보
@@ -40,9 +40,9 @@
         
     ```
     1) GPT
-        <img align="center" src="./img/3/gpt.png">
+<img align="center" src="./img/3/gpt.png">
     2) Agent
-        <img align="center" src="./img/3/Lee.png">
+<img align="center" src="./img/3/Lee.png">
 
 ## * Prompt Test
     1) 한국어와 영어가 섞여 있을 때 완전한 영문으로 번역해줄 수 있는지 확인
