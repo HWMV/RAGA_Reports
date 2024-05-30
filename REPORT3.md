@@ -46,11 +46,11 @@
 
 ## * Prompt Test
     1) 한국어와 영어가 섞여 있을 때 완전한 영문으로 번역해줄 수 있는지 확인
-        <img align="center" src="./img/3/prompt1.png">
-        <img align="center" src="./img/3/prompt2.png">
-        <img align="center" src="./img/3/prompt3.png">
+<img align="center" src="./img/3/prompt1.png">
+<img align="center" src="./img/3/prompt2.png">
+<img align="center" src="./img/3/prompt3.png">
 
 ## * Token 비용 계산 (추가로 계산 해봐야 함!)
-        <img align="center" src="./img/3/token.png">
+<img align="center" src="./img/3/token.png">
     
 ---
