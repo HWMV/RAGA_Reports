@@ -27,9 +27,11 @@
 
 결과 : 
     a. Agent가 문법 교정 진행
-    b. 한글/영어 혼용해도 번역 후 교정 진행
     
 <img align="center" src="./img/7/2-1.png">
+
+    b. 한글/영어 혼용해도 번역 후 교정 진행
+    
 <img align="center" src="./img/7/2-2.png">
 
 ##    3) Prompt & 결과
@@ -40,23 +42,23 @@
 결과 :
     a. 이어지는 답변 생성 확인
     
-    <img align="center" src="./img/7/5-1.png">
+<img align="center" src="./img/7/5-1.png">
     
     b. 내 메시지 인식을 잘못한 이슈 why? 다음 연결은 매끄러움
     
-    <img align="center" src="./img/7/5-2.png">
+<img align="center" src="./img/7/5-2.png">
     
     c. 한글/영어 혼용 질문에 대답 및 다음 대화 연결
     
-    <img align="center" src="./img/7/5-3.png">
+<img align="center" src="./img/7/5-3.png">
     
     d. 어색한 문법 교정 및 다음 대답 연결
     
-    <img align="center" src="./img/7/5-4.png">
+<img align="center" src="./img/7/5-4.png">
     
     e. 오타 및 주어 오류 교정 및 이어진 답변
     
-    <img align="center" src="./img/7/5-5.png">
+<img align="center" src="./img/7/5-5.png">
     
     
 ## 2. GPT Test
