@@ -1,20 +1,23 @@
-# Agent with Prompt Test
-
 # RAGA LAB 7주차 Report
+## Agent with Prompt Test
 
 ---
 
 # MAS Team
+---
 
 ### **다국어 음성 회화 MAS 중 영어 문법 교정 Agent Prompt Test**
 ### **같은 입력으로 GPT 와의 차이**
 
-## *1. Prompt Test
+## 1. Prompt Test
 
 ##    1) 초기 Prompt & 결과
 프롬프트 : 역할만 부여
+
 <img align="center" src="./img/7/1.png">
+
 결과 :
+
 <img align="center" src="./img/7/1-1.png">
 
 ##    2) Prompt & 결과
@@ -42,4 +45,4 @@
     <img align="center" src="./img/7/5-5.png">
     
     
-## *2. GPT Test
+## 2. GPT Test
