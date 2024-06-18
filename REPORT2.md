@@ -39,17 +39,17 @@
 # 2. Camel with LangChain
 ## LangChain Lib의 Components를 활용하여 Prompt와 Message의 Flow를 구현한 스크립트
 
-<img align="center" src="./img/2.classcamel.png">
-<img align="center" src="./img/2.prompt.png">
-<img align="center" src="./img/2.Loop.png">
+<img align="center" src="./img/2/2.classcamel.png">
+<img align="center" src="./img/2/2.prompt.png">
+<img align="center" src="./img/2/2.Loop.png">
 
 ---
 
 # 3. Langflow (Demo Version)
 
-<img align="center" src="./img/2.component.png">
-<img align="center" src="./img/2.UI.png">
-<img align="center" src="./img/2.logrecord.png">
+<img align="center" src="./img/2/2.component.png">
+<img align="center" src="./img/2/2.UI.png">
+<img align="center" src="./img/2/2.logrecord.png">
 
 ---
 
