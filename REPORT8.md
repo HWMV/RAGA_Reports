@@ -13,6 +13,8 @@
 ###   c. Financial_analyst : Task Financial_analysis
 ###   d. Hedge_fund_manager : Task investment_recommendation
 
+---
+
 ### 2) Task
 
 ###   a. research : 최근 주요 뉴스 기사 URL 감정 분석 (시장 심리 등)
@@ -20,7 +22,10 @@
 ###      (추세, 향후 성과, 영향, 주요 지지/저항 수준, 차트패턴 및 기술지표, 진입점과 가격 목표에 대한 통찰)
 ###   c. financial_analysis : 재무 건전성과 실적 평가
 ###      (내부자 거래, 수익, 현금 흐름, 재무 지표에 대한 통찰, 주식의 가치 & 성장 잠재력 평가)
-###   d. investment_recommendation : 위 Agent들에게 Task에 대한 보고서를 받아서 종합 분석 및 의사 결정 출력
+###   d. investment_recommendation : 위 Agent들에게 Task에 대한 보고서를 받아서 종합 분석 및
+###      의사 결정 출력
+
+---
 
 ### 3) Tool
 
@@ -43,15 +48,18 @@
 ### - 적용 안됨을 확인, Task 별로 입력 인자가 안 맞아서 Tool로써 사용 안함
 ### **그래서 새로운 방식으로 뇌 모듈 적용 구상**
 
-### 에러 이미지 
+### [에러 이미지]
 ### - 입력 인자가 아나리 tool로 사용 안함
 <img align="center" src="./img/8/arg_error.png">
 
 ### 에러 로그 (에러 원인 & 해결)
 ### txt 파일로 저장되어 있음 후에 업데이트 예정
 
+---
+
 ### 2) 뇌 모듈 (class BrainModule)
-<img align="left" src="./img/8/2-1.png"><img align="right" src="./img/8/2-2.png">
+<img align="center" src="./img/8/2-1.png">
+<img align="center" src="./img/8/2-2.png">
 
 ### - 좌, 우뇌를 각각 Agent로 구현
 ### - 좌, 우뇌에 맞는 Task 할당 (우뇌 : 뉴스 감정 분석)
@@ -61,8 +69,10 @@
 ### **추후 좌,우뇌에게 Task를 어떻게 할당할 것인지 고려**
 ### **hedge_fund_manager에게 어떻게 적용 시켜줄 건지 구상할 예정**
 
+---
+
 ### 에러 : Financial_analysis 보고서가 작성 안됨
-### 다른 에러 로그
+### [다른 에러 로그]
 <img align="center" src="./img/8/Final_brain_module_Error.png">
 
 ---
@@ -73,6 +83,8 @@
 ### 1) 뇌 적용 X
 <img align="center" src="./img/8/3-1.png">
 ### **전문가 분석처럼 자세하고 논리적으로 출력**
+
+---
 
 ### 2) 뇌 적용 O
 <img align="center" src="./img/8/3-2.png">
